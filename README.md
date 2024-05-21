@@ -33,3 +33,5 @@ Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat berkas LICENSE untuk informasi lebih lanjut.
 
 Dengan menggunakan bot ini, Anda setuju untuk bertanggung jawab atas penggunaannya dan mematuhi semua kebijakan dan aturan yang berlaku di platform Shopee.
+Donasi yuk
+https://trakteer.id/amrun-khakim/tip
