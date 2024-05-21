@@ -8,10 +8,10 @@ git clone https://github.com/amrunkhakim/Shopylive.git
 
 import||
 
-pip install selenium
-pip install colorama
-pip install random
-pip install pytesseract
+pip install selenium ,
+pip install colorama ,
+pip install random ,
+pip install pytesseract,
 
 Fitur Utama
 Tambahkan Penonton: Bot dapat secara otomatis menambahkan jumlah penonton pada sesi live dengan mengunjungi tautan sesi live yang disediakan.
